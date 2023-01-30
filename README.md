@@ -31,15 +31,25 @@ Your challenge is to build a Node.js command-line application that takes in info
 The application will be invoked by using the following command: node index.js
 
 ## Usage
-```
+
 IT build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
-You can also watch a video demonstration of the application [here](https://drive.google.com/file/d/17gEoqs2WBMKDUkMdI8UkxdMC5r6_Dya_/view).
-```
-## FAQ
-- Q: How does this application solve the problem?
-  A: This application solves the problem by providing a user-friendly interface and efficient algorithms to perform the specific task.
+You can also watch a video demonstration of the application [here](https://drive.google.com/file/d/1T3LsHb2w_AlDK0zQGUjXlfbgejJETzs5/view).
 
+## The directory structure
+```
+├── __tests__/             //jest tests
+│   ├── Employee.test.js
+│   ├── Engineer.test.js
+│   ├── Intern.test.js
+│   └── Manager.test.js
+├── dist/                  // rendered output (HTML) and CSS style sheet      
+├── lib/                   // classes
+├── src/                   // template helper code 
+├── .gitignore             // indicates which folders and files Git should ignore
+├── index.js               // runs the application
+└── package.json   
+```
 ## User Story
 ```
 AS A manager
