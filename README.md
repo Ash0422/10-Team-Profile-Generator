@@ -34,7 +34,7 @@ The application will be invoked by using the following command: node index.js
 
 IT build a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 
-You can also watch a video demonstration of the application [here](https://drive.google.com/file/d/1T3LsHb2w_AlDK0zQGUjXlfbgejJETzs5/view).
+You can also watch a video demonstration of the application [here](https://watch.screencastify.com/v/qPbDTFGqt8aIQiJB3or7).
 
 ## The directory structure
 ```
