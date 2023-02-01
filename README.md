@@ -91,6 +91,7 @@ This application has been tested by the creator and it works fine.
 - https://fontawesome.com/
 - https://getbootstrap.com/
 - https://getbootstrap.com/docs/4.0/utilities/colors/ 
+- https://www.bootstrapcdn.com/
 
 ## Questions
 For any additional questions, please contact me at chibane.tkd04@gmail.com or visit my GitHub profile at https://github.com/Ash0422.
